@@ -1,6 +1,6 @@
 <div dir="rtl">
-# <div dir="rtl">و تو چه میدانی جاوااسکریپت چیست؟ (مجموعه کتاب) - ویراست دوم</div> 
-<p dir="rtl">این ** نسخه دوم ** از یک مجموعه کتاب کاربردی است که در مکانیسم های اصلی زبان جاوا اسکریپت عمیقاْ ورود کرده و سعی در توضیح کامل این زبان محبوب دارد</p>
+<h3>و تو چه میدانی جاوااسکریپت چیست؟ (مجموعه کتاب) - ویراست دوم</h3> 
+این <strong>نسخه دوم</strong> از یک مجموعه کتاب کاربردی است که در مکانیسم های اصلی زبان جاوا اسکریپت عمیقاْ ورود کرده و سعی در توضیح کامل این زبان محبوب دارد.
 
 <a href="https://leanpub.com/ydkjsy-get-started"><img src="get-started/images/cover.png" width="75"></a>&nbsp;&nbsp;
 <a href="https://leanpub.com/ydkjsy-scope-closures"><img src="scope-closures/images/cover.png" width="75"></a>&nbsp;&nbsp;...
