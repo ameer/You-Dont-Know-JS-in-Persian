@@ -1,32 +1,28 @@
 <div dir="rtl">
 <h3>و تو چه میدانی جاوااسکریپت چیست؟ (مجموعه کتاب) - ویراست دوم</h3> 
 این <strong>نسخه دوم</strong> از یک مجموعه کتاب کاربردی است که در مکانیسم های اصلی زبان جاوا اسکریپت عمیقاْ ورود کرده و سعی در توضیح کامل این زبان محبوب دارد.
-
-<a href="https://leanpub.com/ydkjsy-get-started"><img src="get-started/images/cover.png" width="75"></a>&nbsp;&nbsp;
-<a href="https://leanpub.com/ydkjsy-scope-closures"><img src="scope-closures/images/cover.png" width="75"></a>&nbsp;&nbsp;...
+&nbsp;&nbsp;
+<a href="https://leanpub.com/ydkjsy-get-started"><img src="get-started/images/cover.png" width="75"></a>
+<a href="https://leanpub.com/ydkjsy-scope-closures"><img src="scope-closures/images/cover.png" width="75"></a>
 
 <div dir="rtl"><strong>برای مطالعه بیشتر در مورد انگیزه‌ها و دیدگاه‌های موجود در پس این مجموعه کتاب به <a href="preface.md">مقدمه</a> مراجعه کنید.</strong>
 
-اگر به دنبال نسخه‌های **اول** این کتاب هستید ، [آنها را می توانید در اینجا بیابید](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md).
+اگر به دنبال نسخه‌های <strong>اول</strong> این کتاب هستید، <a href="https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md">آنها را می توانید در اینجا بیابید</a>.
 
-## حامی برجسته
+<strong>حامی برجسته</strong>
 
-نسخه انگلیسی این کتاب به طور انحصاری توسط&#x202b; [Frontend Masters](https://frontendmasters.com) حمایت و پشتیبانی می‌شود.
+نسخه انگلیسی این کتاب به طور انحصاری توسط [Frontend Masters](https://frontendmasters.com) حمایت و پشتیبانی می‌شود.
 
-&#x202b;
+
 Frontend Masters یک معیار و استاندارد طلایی برای محتوای آموزشی باکیفیت در زمینه توسعه نرم افزار با محوریت فرانت‌اند است. با داشتن بیش از ۱۵۰ دوره در همه موارد مربوط به فرانت ، این سایت باید اولین و تنها انتخاب شما برای آموزش‌های ویدیویی با کیفیت در مورد HTML ، CSS ، JS و فناوری‌های مرتبط باشد.
-
-Frontend Masters is the gold standard for top-of-the-line expert training material in frontend-oriented software development. With over 150 courses on all things frontend, this should be your first and only stop for quality video training on HTML, CSS, JS, and related technologies.
-
 ----
 
-I teach [all my workshops](https://frontendmasters.com/kyle-simpson) exclusively through Frontend Masters. If you like this book content, please check out my video training courses.
+من (نویسنده) <a href="https://frontendmasters.com/kyle-simpson">همه‌ی کارگاههای آموزشی</a> خودم رو فقط از طریق سایت Frontend Masters برگزار می‌کنم. اگر شما محتوای این کتاب رو دوست داشتید، پیشنهاد می‌کنم ویدیوی دوره‌های تمرینی من رو ببینید. 
 
-I want to extend a warm and deep thanks to Marc Grabanski and the entire Frontend Masters team, not only for their excellent work with the video training platform, but for their unwavering support of me and of the "You Don't Know JS" books!
+من می‌خواهم در اینجا از Marc Grabanski و کل تیم Frontend Masters تشکر صمیمانه‌ای داشته باشم نه تنها به دلیل پلتفرم آموزش تصویری خوبی که فراهم کردند، بلکه بخاطر حمایت بی‌وقفه آنها از من و کتابهای "You Don't Know JS"! 
 
 ----
-
-## Titles
+<h3>عناوین</h3>
 
 I recommend reading the **second edition** books in this order:
 
