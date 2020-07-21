@@ -26,20 +26,20 @@ Frontend Masters یک معیار و استاندارد طلایی برای مح�
 ----
 <h3>عناوین</h3>
 
-I recommend reading the **second edition** books in this order:
+من پیشنهاد میکنم که <strong>ویراست دوم</strong> این کتاب‌ها رو به ترتیب زیر بخونید:
 
-* [Get Started](get-started/README.md) | [Buy on Leanpub](https://leanpub.com/ydkjsy-get-started) | [Buy on Amazon](https://www.amazon.com/dp/B084BNMN7T)
-* [Scope & Closures](scope-closures/README.md) | [Buy on Leanpub](https://leanpub.com/ydkjsy-scope-closures) | [Buy on Amazon](https://www.amazon.com/dp/B08634PZ3N)
-* Objects & Classes (not yet started)
-* Types & Grammar (not yet started)
-* Sync & Async (not yet started)
-* ES.Next & Beyond (not yet started)
+* [شروع کار](get-started/README.md)
+* [Scope و Closures](scope-closures/README.md) 
+* آبجکت‌ها و کلاس‌ها (هنوز شروع نشده)
+* تایپ‌ها و گرامر (هنوز شروع نشده)
+* سینک و آسینک (هنوز شروع نشده)
+* ES.Next & Beyond (هنوز شروع نشده)
 
-If you're looking for the previous **first edition** books, [they can be found here](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md).
+اگر به دنبال نسخه‌های <strong>اول</strong> این کتاب هستید، <a href="https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md">آنها را می توانید در اینجا بیابید</a>.
 
-## Publishing
+## انتشار
 
-As always, you'll be able to read these books online here entirely for free.
+مثل همیشه شما میتونید همه این کتاب‌ها رو رایگان در اینجا بخونید!
 
 This edition of the books is being self-published through [GetiPub](https://geti.pub) publishing. The published books will be made available for sale through normal book retail sources.
 
