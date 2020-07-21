@@ -6,7 +6,7 @@
 <a href="https://leanpub.com/ydkjsy-scope-closures"><img src="scope-closures/images/cover.png" width="75"></a>&nbsp;&nbsp;...
 
 
-**برای مطالعه بیشتر در مورد انگیزه‌ها و دیدگاه‌های موجود در پس این مجموعه کتاب به [مقدمه&#x202b;](preface.md) مراجعه کنید.**
+<div dir="rtl"><strong>برای مطالعه بیشتر در مورد انگیزه‌ها و دیدگاه‌های موجود در پس این مجموعه کتاب به [مقدمه](preface.md) مراجعه کنید.</strong></div>
 
 اگر به دنبال نسخه‌های **اول** این کتاب هستید ، [آنها را می توانید در اینجا بیابید](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md).
 
