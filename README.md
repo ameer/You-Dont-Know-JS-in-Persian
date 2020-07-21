@@ -1,11 +1,11 @@
-
+<div dir="rtl">
 # <div dir="rtl">و تو چه میدانی جاوااسکریپت چیست؟ (مجموعه کتاب) - ویراست دوم</div> 
 <p dir="rtl">این ** نسخه دوم ** از یک مجموعه کتاب کاربردی است که در مکانیسم های اصلی زبان جاوا اسکریپت عمیقاْ ورود کرده و سعی در توضیح کامل این زبان محبوب دارد</p>
 
 <a href="https://leanpub.com/ydkjsy-get-started"><img src="get-started/images/cover.png" width="75"></a>&nbsp;&nbsp;
 <a href="https://leanpub.com/ydkjsy-scope-closures"><img src="scope-closures/images/cover.png" width="75"></a>&nbsp;&nbsp;...
 
-<div dir="rtl"><strong>برای مطالعه بیشتر در مورد انگیزه‌ها و دیدگاه‌های موجود در پس این مجموعه کتاب به <a href="preface.md">مقدمه</a> مراجعه کنید.</strong></div>
+<div dir="rtl"><strong>برای مطالعه بیشتر در مورد انگیزه‌ها و دیدگاه‌های موجود در پس این مجموعه کتاب به <a href="preface.md">مقدمه</a> مراجعه کنید.</strong>
 
 اگر به دنبال نسخه‌های **اول** این کتاب هستید ، [آنها را می توانید در اینجا بیابید](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md).
 
@@ -64,3 +64,4 @@ But **PLEASE** read the [Contributions Guidelines](CONTRIBUTING.md) carefully be
 The materials herein are all &copy; 2019-2020 Kyle Simpson.
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivs 4.0 Unported License</a>.
+</div>
