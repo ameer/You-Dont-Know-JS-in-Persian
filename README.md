@@ -41,25 +41,25 @@ Frontend Masters یک معیار و استاندارد طلایی برای مح�
 
 مثل همیشه شما میتونید همه این کتاب‌ها رو رایگان در اینجا بخونید!
 
-This edition of the books is being self-published through [GetiPub](https://geti.pub) publishing. The published books will be made available for sale through normal book retail sources.
+این نسخه از کتاب ها از طریق انتشارات GetiPub به انگلیسی منتشر می‌شوند. کتابهای منتشر شده از طریق فروشگاه‌های کتاب معمولی برای فروش در دسترس خواهند بود. (برای فارسی فعلا برنامه‌ای نداریم!)
 
-If you'd like to contribute financially towards the effort (or any of my other OSS efforts) aside from purchasing the published books, please consider these options:
+اگر مایلید از این کتاب یا بقیه کارهای من، حمایت مالی کنید لطفا از گزینه‌های زیر استفاده کنید:
 
 * [Github Sponsorship](https://github.com/users/getify/sponsorship)
 * [Patreon](https://www.patreon.com/getify)
 * [Paypal](https://www.paypal.me/getify)
 
-## Contributions
+## همکاری و مشارکت
 
-Please feel free to contribute to the quality of this content by submitting PRs for improvements to code snippets, explanations, etc. While typo fixes are welcomed, they will likely be caught through normal editing/publishing processes, **so please don't worry about them right now.**
+در صورت تمایل برای مشارکت در بهبود کیفیت محتوا شامل: بهبود کیفیت کدها، توضیحات، ترجمه فارسی و غیره Pull Request ثبت کنید. با اینکه از اشکال‌گیری املایی و دستوری خوشحال میشیم ولی چون در فرآیند ویرایش/انتشار خود به خود تصحیح میشوند <strong>پس خیلی لازم نیست خودتون رو به زحمت بندازید.</strong>
 
-Any contributions you make to this effort **are of course greatly appreciated**.
+هرگونه همکاری شما در این پروژه <strong>مطمئناً بسیار پسندیده و قابل قدردانی خواهد بود.</strong>.
 
-But **PLEASE** read the [Contributions Guidelines](CONTRIBUTING.md) carefully before submitting a PR.
+لطفا قبل از ثبت Pull Request حتما این [راهنمای مشارکت](CONTRIBUTING.md) رو (که فعلا فقط برای انگلیسی هست) بخونید.
 
-## License & Copyright
+## مجوز و کپی رایت
 
 The materials herein are all &copy; 2019-2020 Kyle Simpson.
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivs 4.0 Unported License</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />این کار تحت مجوز<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivs 4.0 Unported License</a> منتشر شده است.
 </div>
